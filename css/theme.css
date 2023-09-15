@@ -881,14 +881,7 @@ button::-moz-focus-inner {
    border: 0;
 }
 
-.wrapper {
-   /* overflow-x: hidden; */
-}
 
-
-.footer {
-   /* display: none; */
-}
 
 .start-section__image_mobile {
    display: none;
