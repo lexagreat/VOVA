@@ -1383,7 +1383,7 @@ button::-moz-focus-inner {
 }
 
 .tabs__head {
-   overflow: hidden;
+   overflow-x: hidden;
 }
 
 @media(max-width: 1200px) {
