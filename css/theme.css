@@ -10,8 +10,7 @@
 /* @import url(../fonts/buyan.css); */
 @font-face {
    font-family: 'BuyanBold';
-   src: url(../fonts/BuyanBold.woff),
-      url(../fonts/BuyanBold.ttf);
+   src: url(../fonts/BuyanBold.ttf);
 }
 
 /* Fonts:
@@ -881,7 +880,14 @@ button::-moz-focus-inner {
    border: 0;
 }
 
+.wrapper {
+   overflow-x: hidden;
+}
 
+
+.footer {
+   /* display: none; */
+}
 
 .start-section__image_mobile {
    display: none;
@@ -1377,7 +1383,7 @@ button::-moz-focus-inner {
 }
 
 .tabs__head {
-   overflow-x: hidden;
+   overflow: hidden;
 }
 
 @media(max-width: 1200px) {
