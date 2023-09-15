@@ -10,7 +10,8 @@
 /* @import url(../fonts/buyan.css); */
 @font-face {
    font-family: 'BuyanBold';
-   src: url(../fonts/BuyanBold.ttf);
+   src: url(../fonts/BuyanBold.woff),
+      url(../fonts/BuyanBold.ttf);
 }
 
 /* Fonts:
